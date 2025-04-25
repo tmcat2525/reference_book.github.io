@@ -1,1 +1,1 @@
-theme: jekyll-now
+theme: "minima" # 他のテーマを指定する場合
